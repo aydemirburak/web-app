@@ -1,0 +1,35 @@
+{
+  "employees": "Employees",
+  "new": "Add New",
+  "home": {
+    "header": "Employee List",
+    "firstName": "First Name",
+    "lastName": "Last Name",
+    "birthDate": "Birth Date",
+    "employmentDate": "Employment Date",
+    "birthDateFormat": "Birth Date dd/mm/yyyy",
+    "employmentDateFormat": "Employment Date dd/mm/yyyy",
+    "phone": "Phone",
+    "email": "E-mail",
+    "department": "Department",
+    "position": "Position",
+    "departments": "Department",
+    "positions": "Position",
+    "actions": "Actions",
+    "submit": "Submit"
+  },
+  "create": {
+    "header": "Employee"
+  },
+  "component": {
+    "sure": "Are you sure?",
+    "surex": "Are you sure you want to proceed?",
+    "proceed": "Proceed",
+    "cancel": "Cancel",
+    "choose": "Choose"
+  },
+  "cta": {
+    "awesome": "{{ animals }} are awesome!",
+    "cats": "Cats"
+  }
+}

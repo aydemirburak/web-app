@@ -1,0 +1,35 @@
+{
+  "employees": "Çalışanlar",
+  "new": "Yeni Ekle",
+  "home": {
+    "header": "Çalışan Listesi",
+    "firstName": "İsim",
+    "lastName": "Soyisim",
+    "birthDate": "Doğum Tarihi",
+    "employmentDate": "İşe Alım Tarihi",
+    "birthDateFormat": "Doğum Tarihi dd/mm/yyyy",
+    "employmentDateFormat": "İşe Alım Tarihi dd/mm/yyyy",
+    "phone": "Telefon",
+    "email": "E-mail",
+    "department": "Departman",
+    "position": "Pozisyon",
+    "departments": "Departmanlar",
+    "positions": "Pozisyonlar",
+    "actions": "Aksiyonlar",
+    "submit": "Oluştur"
+  },
+  "create": {
+    "header": "Çalışan"
+  },
+  "component": {
+    "sure": "Emin misiniz?",
+    "surex": "Devam etmek istediğinize emin misniz?",
+    "proceed": "Devam",
+    "cancel": "İptal",
+    "choose": "Seçilebilir"
+  },
+  "cta": {
+    "awesome": "{{ animals }} are awesome!",
+    "cats": "Cats"
+  }
+}
